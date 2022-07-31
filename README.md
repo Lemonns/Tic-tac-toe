@@ -1,1 +1,1 @@
-# Tic-tac-toe-school-
+# Tic-tac-toe
